@@ -1,0 +1,23 @@
+{
+  "name": "package_vinitha",
+  "version": "1.0.0",
+  "description": "Pasitive number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinithadevi-murugan/package_vinitha.git"
+  },
+  "keywords": [
+    "vinitha",
+    "positive"
+  ],
+  "author": "vinithadevi.murugan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinithadevi-murugan/package_vinitha/issues"
+  },
+  "homepage": "https://github.com/vinithadevi-murugan/package_vinitha#readme"
+}
