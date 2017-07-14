@@ -6,5 +6,8 @@ module.exports={
         else{
             return num+ " Negative number";
         }
+    },
+    greet:function(str){
+        return "Hello "+str;
     }
 }
